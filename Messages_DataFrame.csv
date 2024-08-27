@@ -1,0 +1,6 @@
+message_id,customer_id,message,timestamp
+101,1,"Warning: There is a storm in the area, and you may lose power, please prepare",2024-08-25 08:00:00
+102,2,"Outage: We’re sorry to hear you’ve lose power, we will restore your power shortly",2024-08-25 09:00:00
+103,3,Estimate: We estimate your power will be restored in 3 hours,2024-08-25 10:00:00
+104,1,Updated Estimate: We estimate your power will be restored in 5 hours,2024-08-25 11:00:00
+105,4,"Restored: Your power has been restored, thank you!",2024-08-25 12:00:00
